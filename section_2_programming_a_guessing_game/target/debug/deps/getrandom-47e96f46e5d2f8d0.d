@@ -1,0 +1,11 @@
+/Users/sunny/Desktop/Docs/Learn/Rust/rust-book/section_2_programming_a_guessing_game/target/debug/deps/getrandom-47e96f46e5d2f8d0.rmeta: /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/macos.rs
+
+/Users/sunny/Desktop/Docs/Learn/Rust/rust-book/section_2_programming_a_guessing_game/target/debug/deps/getrandom-47e96f46e5d2f8d0.d: /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs /Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/macos.rs
+
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/lib.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/error_impls.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/util_libc.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/use_file.rs:
+/Users/sunny/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.10/src/macos.rs:

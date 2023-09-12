@@ -1,0 +1,1 @@
+/Users/sunny/Desktop/Docs/Learn/Rust/rust-book/section_2_programming_a_guessing_game/target/debug/Section_2_Programming_a_Guessting_Game: /Users/sunny/Desktop/Docs/Learn/Rust/rust-book/section_2_programming_a_guessing_game/src/main.rs
